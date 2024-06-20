@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Progammer {
 
-    // autowired connect the two different class
+    // autowired search classes and connect the two classes
     @Autowired
     Laptop laptop;
 
